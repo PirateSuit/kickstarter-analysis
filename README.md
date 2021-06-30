@@ -2,7 +2,7 @@
 ## Using Kickstarter data to find optimal fundraising strategies for theater projects.
 ---
 ### Below is a graph displaying the results of over 4,000 Kickstarter campaigns.
-![Kickstarter Outcomes](/Users/danpederson/Class/kickstarter-analysis/Parent_Category_Outcomes.png)
+![Kickstarter Outcomes](Users/danpederson/Class/kickstarter-analysis/Parent_Category_Outcomes.png)
 ---
 ### And also a graph displaying the outcomes of campaigns based on their launch date.
 ![Outcomes Based on Launch Dates](Outcomes_Based_on_Launch_Date.png)
