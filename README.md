@@ -11,4 +11,4 @@
 ![gb box plot](https://user-images.githubusercontent.com/84999050/123901075-f0b4c080-d92f-11eb-860a-d1a463405d9a.png)
 ---
 ## Findings
-Theater campaigns were the most numerous among the data, with a success rate only second to music campaigns. la la la
+Theater campaigns were the most numerous among the data, with a success rate notably larger than most and second only to music campaigns. May through August saw the most campaigns launched per month, with the highest success-to-failure rate belonging to May. As to the interest in the British theater, we can see that the mean successful campaign had a goal of about £4,000, with a median of less than £2,000. It would be advisable to aim for a goal lower than the £4,000 you initially intended.
